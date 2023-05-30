@@ -1,4 +1,4 @@
-![Web developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/310521323_3180686385502908_302008723975738784_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=_8qUwg871mYAX9HcwXp&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfAp2askDBJ-1SkeBAjTu4wT02ienJc6Zz67-fpzaLZi5A&oe=63A34368)
+![Web developer]
 
 ### Hi there 👋, my name is Salim
 #### Web developer
