@@ -16,10 +16,10 @@ Hi, I’m Salim Reza, a professional web developer specializing in PHP Laravel d
 
 ### 💡 Why Clients Choose Me
 
-✔ Clean, maintainable, and scalable code
-✔ Strong problem-solving mindset
-✔ Fast communication & on-time delivery
-✔ Focus on real business needs (not just code)
+✔ Clean, maintainable, and scalable code<br>
+✔ Strong problem-solving mindset<br>
+✔ Fast communication & on-time delivery<br>
+✔ Focus on real business needs (not just code)<br>
 ✔ Long-term support after project completion
 
 ## 🧠 My Approach
@@ -28,15 +28,15 @@ I don’t just build websites—I build solutions.
 
 Before starting any project, I:
 
-Understand your business goals
-Plan the best technical approach
+Understand your business goals<br>
+Plan the best technical approach<br>
 Deliver a product that is efficient, user-friendly, and future-ready
 
 ### 🛠️ Tech Stack
 
-Backend: PHP, Laravel
-Frontend: HTML, CSS, JavaScript
-Database: MySQL
+Backend: PHP, Laravel<br>
+Frontend: HTML, CSS, JavaScript<br>
+Database: MySQL<br>
 CMS/Ecommerce: WordPress, Shopify
 
 ### 📈 Let’s Build Something Great
