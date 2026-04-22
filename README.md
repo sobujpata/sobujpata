@@ -6,12 +6,12 @@ Hi, I’m Salim Reza, a professional web developer specializing in PHP Laravel d
 
 ### 💼 What I Can Do For You
 
-✅ Custom Web Application Development (Laravel)
-✅ Business Websites (Modern & Responsive Design)
-✅ Admin Panel / Dashboard Development
-✅ REST API Development & Integration
-✅ Bug Fixing & Performance Optimization
-✅ Database Design (MySQL – Clean & Scalable Structure)
+✅ Custom Web Application Development (Laravel)<br>
+✅ Business Websites (Modern & Responsive Design)<br>
+✅ Admin Panel / Dashboard Development<br>
+✅ REST API Development & Integration<br>
+✅ Bug Fixing & Performance Optimization<br>
+✅ Database Design (MySQL – Clean & Scalable Structure)<br>
 ✅ WordPress & Shopify Customization
 
 ### 💡 Why Clients Choose Me
